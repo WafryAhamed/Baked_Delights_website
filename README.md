@@ -1,2 +1,8 @@
-# Baked_Delights_website
- Baked Delights is a responsive and user-friendly bakery website that showcases a delectable array of baked goods, including cakes, pies, pastries, breads, cookies, and muffins. Built with React and styled with CSS, this website offers an intuitive interface for users to explore and purchase their favorite treats.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
