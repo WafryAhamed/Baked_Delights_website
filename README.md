@@ -44,10 +44,10 @@ Welcome to **Bakery Delights**, an online bakery store where you can explore and
 To run the Bakery Delights website locally, you need the following installed:
 
 
-Node.js : Download and install from nodejs.org .
-npm : Comes bundled with Node.js.
-Vite : A fast build tool for modern web development. Ensure it is installed globally or as a project dependency.
-VS Code (or any IDE): Recommended for development.
+- **Node.js** : Download and install from nodejs.org .
+- **npm**: Comes bundled with Node.js.
+- **Vite** : A fast build tool for modern web development. Ensure it is installed globally or as a project dependency.
+- **VS Code**(: Recommended for development.
 ---
 
 ## Installation Instructions
