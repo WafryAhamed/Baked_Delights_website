@@ -4,7 +4,7 @@
 
 Welcome to **Bakery Delights**, an online bakery store where you can explore and purchase a wide variety of baked goods such as cakes, pies, cookies, muffins, and more! This platform is built using modern web technologies like **React**, **Framer Motion**, and **React Router**, providing a seamless user experience with smooth animations, responsive design, and dynamic product filtering.
 
----
+
 
 ## Features
 
@@ -18,7 +18,7 @@ Welcome to **Bakery Delights**, an online bakery store where you can explore and
 - **Animations**: Smooth animations powered by **Framer Motion** enhance the user experience when interacting with elements like buttons, product cards, and category filters.
 - **Sticky Header**: The header changes color dynamically when scrolling past a certain point, improving navigation visibility.
 
----
+
 
 ## Technologies Used
 
@@ -47,15 +47,15 @@ To run the Bakery Delights website locally, you need the following installed:
 - **Node.js** : Download and install from nodejs.org .
 - **npm**: Comes bundled with Node.js.
 - **Vite** : A fast build tool for modern web development. Ensure it is installed globally or as a project dependency.
-- **VS Code**(: Recommended for development.
----
+- **VS Code**: Recommended for development.
+
 
 ## Installation Instructions
 
 1. **Clone the Repository**:
    Open a terminal and run:
    
-   ```
+
 
 2. **Navigate to the Project Folder**:
    ```bash
@@ -80,7 +80,7 @@ To run the Bakery Delights website locally, you need the following installed:
    http://localhost:5173/
    ```
 
----
+
 ---
 
 
@@ -104,7 +104,6 @@ To run the Bakery Delights website locally, you need the following installed:
 - Users can add products to the cart and review them on the **Cart Page**.
 - The cart icon in the header shows the number of items added.
 
----
 
 ## Key Highlights
 
@@ -113,17 +112,8 @@ To run the Bakery Delights website locally, you need the following installed:
 - **Fallback Images**: If a product image is unavailable, a default placeholder image is displayed.
 - **Loading Indicators**: Buttons show loading spinners during processes like login or signup.
 
----
 
-## Video Demo
 
-A video demo showcasing the website's features is available below:
-
-[![Watch the Video Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
-
-Replace `VIDEO_ID_HERE` with the actual YouTube video ID if you upload a demo.
-
----
 
 ## Acknowledgements
 
@@ -137,7 +127,7 @@ Replace `VIDEO_ID_HERE` with the actual YouTube video ID if you upload a demo.
 
 This project is licensed under the **MIT License**. See [LICENSE.md](LICENSE.md) for more details.
 
----
+
 
 Feel free to explore the codebase, modify it as needed, and enjoy building your bakery website!
 
