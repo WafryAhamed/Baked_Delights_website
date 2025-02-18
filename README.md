@@ -29,6 +29,7 @@ Welcome to **Bakery Delights**, an online bakery store where you can explore and
 - **React Icons**: Provides a library of customizable icons for navigation, buttons, and other interactive elements.
 - **CSS**: Custom styles for layout, typography, and responsiveness.
 
+
 ### State Management
 - **React Hooks**: Utilizes `useState`, `useEffect`, and `useNavigate` for managing state, side effects, and navigation.
 
@@ -42,10 +43,11 @@ Welcome to **Bakery Delights**, an online bakery store where you can explore and
 
 To run the Bakery Delights website locally, you need the following installed:
 
-- **Node.js**: Download and install from [nodejs.org](https://nodejs.org/).
-- **npm**: Comes bundled with Node.js.
-- **VS Code** (or any IDE): Recommended for development.
 
+Node.js : Download and install from nodejs.org .
+npm : Comes bundled with Node.js.
+Vite : A fast build tool for modern web development. Ensure it is installed globally or as a project dependency.
+VS Code (or any IDE): Recommended for development.
 ---
 
 ## Installation Instructions
