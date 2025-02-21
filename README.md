@@ -9,6 +9,18 @@
 Welcome to **Bakery Delights**, an online bakery store where you can explore and purchase a wide variety of baked goods such as cakes, pies, cookies, muffins, and more! This platform is built using modern web technologies like **React**, **Framer Motion**, and **React Router**, providing a seamless user experience with smooth animations, responsive design, and dynamic product filtering.
 
 
+![image](https://github.com/user-attachments/assets/ceb9dc7b-8ad5-4de5-8e2c-c9f84b49b57b)
+
+![image](https://github.com/user-attachments/assets/02923d60-1238-4fca-a8e0-a397fa552f6d)
+
+![image](https://github.com/user-attachments/assets/bb5609a3-dc98-4524-b0f9-e3aac3d4da7e)
+![image](https://github.com/user-attachments/assets/83499bd2-9f23-454f-baaf-c68a6fafe67b)
+![image](https://github.com/user-attachments/assets/5d6048e7-2a9d-4caa-8eff-d003959f4a96)
+![image](https://github.com/user-attachments/assets/84811b91-cde1-439b-b025-996b26d142ab)
+![image](https://github.com/user-attachments/assets/6f8e80e9-11a4-4ba7-82e6-3fd2935da624)
+![image](https://github.com/user-attachments/assets/bbbe161a-d076-47e7-83bb-dca90b0fbc06)
+
+
 
 ## Features
 
@@ -58,7 +70,11 @@ To run the Bakery Delights website locally, you need the following installed:
 
 2. **Navigate to the Project Folder**:
    ```bash
-   cd bakery-delights OR cd Baked_Delights_website-main
+   cd bakery-delights 
+   ```
+or
+  ```bash
+    cd Baked_Delights_website-main
    ```
 
 3. **Install Dependencies**:
@@ -88,10 +104,10 @@ To run the Bakery Delights website locally, you need the following installed:
 
 ### Home Page
 - The home page features a **sticky header** that changes color when scrolling past a certain point.
-- Users can navigate to different sections like Home, Shop, About Us, and Contact using the navbar links.
+- Users can navigate to different sections like Home, Shopping and Contact using the navbar links.
 
-### Shop Page
-- The **Shop** page displays products categorized into sections like Cakes, Pies, Pastries, Breads, Cookies, and Muffins.
+### Shopping  Page
+- The **Shopping** page displays products categorized into sections like Cakes, Pies, Pastries, Breads, Cookies, and Muffins.
 - A **search bar** allows users to filter products by name in real-time.
 - Each product card includes an image, description, price, and a "Buy now" button that redirects to the **Buy Page**.
 
