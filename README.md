@@ -130,12 +130,12 @@ To run the Bakery Delights website locally, you need the following installed:
 While the current version of Bakery Delights is feature-rich and user-friendly, there are several areas where the platform can be further enhanced to provide an even better experience for users and administrators. Below are some ideas for future development:
 
 **1. User Dashboard**
-**Description :** Create a personalized dashboard for logged-in users where they can view their order history, wishlist, saved payment methods, and account settings.
-**Benefits :** Improves user engagement and provides a centralized location for managing user-specific data.
+-**Description :** Create a personalized dashboard for logged-in users where they can view their order history, wishlist, saved payment methods, and account settings.
+-**Benefits :** Improves user engagement and provides a centralized location for managing user-specific data.
 
 **2. Admin Panel**
-**Description :** Develop an admin panel for managing products, orders, and user accounts. Admins should be able to add, edit, or remove products, update inventory, and process refunds.
-**Benefits :** Simplifies backend management and ensures the website remains up-to-date with minimal effort.
+- **Description :** Develop an admin panel for managing products, orders, and user accounts. Admins should be able to add, edit, or remove products, update inventory, and process refunds.
+- **Benefits :** Simplifies backend management and ensures the website remains up-to-date with minimal effort.
 
 
 **3. Real-Time Inventory Updates**
