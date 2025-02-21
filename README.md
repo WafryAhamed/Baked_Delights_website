@@ -27,25 +27,21 @@ Welcome to **Bakery Delights**, an online bakery store where you can explore and
 ## Technologies Used
 
 ### Frontend
-- **React.js**: The core framework for building the user interface.
-- **React Router**: Handles client-side routing for seamless navigation between pages (e.g., Home, Shop, Cart).
-- **Framer Motion**: Adds smooth animations and transitions to UI components, such as sliding product cards and hover effects.
-- **React Icons**: Provides a library of customizable icons for navigation, buttons, and other interactive elements.
-- **CSS**: Custom styles for layout, typography, and responsiveness.
+- **React.js:** The core framework for building the user interface.
+- **Vite:** Fast build tool for modern web applications. 
+- **React Router DOM:** Handles client-side routing for seamless navigation between pages (e.g., Home, Shop, Cart).
+- **Framer Motion:**  Adds smooth animations and transitions to UI components, such as sliding product cards and hover effects.
+- **React Scroll:** Enables smooth scrolling effects for better navigation experience.
+- **Lucide React:** Icon library for UI enhancements.
+- **React Icons:** Provides a library of customizable icons for navigation, buttons, and other interactive elements.
+- **ESLint:** Ensures code linting and formatting for maintaining code quality.
+- **CSS:** Custom styles for layout, typography, and responsiveness.
 
-
-### State Management
-- **React Hooks**: Utilizes `useState`, `useEffect`, and `useNavigate` for managing state, side effects, and navigation.
-
-### Additional Libraries
-- **Axios**: For making API calls (if applicable for fetching product data).
-- **DOM Manipulation**: Used for smooth scrolling and dynamic updates to the DOM.
 
 
 ## Basic Software Requirements
 
 To run the Bakery Delights website locally, you need the following installed:
-
 
 - **Node.js** : Download and install from nodejs.org .
 - **npm**: Comes bundled with Node.js.
@@ -102,6 +98,7 @@ To run the Bakery Delights website locally, you need the following installed:
 ### Authentication
 - Users can log in or sign up using their email/password or third-party options like **Google  , Microsoft** and **Apple ID**.
 - The authentication modal provides a clean and intuitive interface for login and signup.
+- A strong password system is implemented, requiring a mix of uppercase letters, lowercase letters, numbers, and special characters to enhance security.
 
 ### Cart Page
 - Users can add products to the cart and review them on the **Cart Page**.
