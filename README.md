@@ -130,8 +130,8 @@ To run the Bakery Delights website locally, you need the following installed:
 While the current version of Bakery Delights is feature-rich and user-friendly, there are several areas where the platform can be further enhanced to provide an even better experience for users and administrators. Below are some ideas for future development:
 
 **1. User Dashboard**
--**Description :** Create a personalized dashboard for logged-in users where they can view their order history, wishlist, saved payment methods, and account settings.
--**Benefits :** Improves user engagement and provides a centralized location for managing user-specific data.
+- **Description :** Create a personalized dashboard for logged-in users where they can view their order history, wishlist, saved payment methods, and account settings.
+- **Benefits :** Improves user engagement and provides a centralized location for managing user-specific data.
 
 **2. Admin Panel**
 - **Description :** Develop an admin panel for managing products, orders, and user accounts. Admins should be able to add, edit, or remove products, update inventory, and process refunds.
@@ -139,52 +139,52 @@ While the current version of Bakery Delights is feature-rich and user-friendly, 
 
 
 **3. Real-Time Inventory Updates**
-**Description :** Integrate real-time inventory tracking to show product availability (e.g., "In Stock" or "Out of Stock") and prevent overselling.
-**Benefits :** Enhances trust and transparency while reducing customer frustration.
+- **Description :** Integrate real-time inventory tracking to show product availability (e.g., "In Stock" or "Out of Stock") and prevent overselling.
+- **Benefits :** Enhances trust and transparency while reducing customer frustration.
 
 
 **4. Multi-Language Support**
-**Description :** Add support for multiple languages to cater to a global audience.
-**Benefits :** Expands the reach of the website and makes it accessible to non-English speakers.
+- **Description :** Add support for multiple languages to cater to a global audience.
+- **Benefits :** Expands the reach of the website and makes it accessible to non-English speakers.
 
 
 **5. Advanced Search Filters**
-**Description :** Allow users to filter products by additional criteria such as dietary preferences (e.g., gluten-free, vegan), price range, or popularity.
-**Benefits :** Provides a more tailored shopping experience and helps users find exactly what they’re looking for.
+- **Description :** Allow users to filter products by additional criteria such as dietary preferences (e.g., gluten-free, vegan), price range, or popularity.
+- **Benefits :** Provides a more tailored shopping experience and helps users find exactly what they’re looking for.
 
 
 **6. Push Notifications**
-**Description :** Implement push notifications for order updates, promotions, and abandoned carts.
-**Benefits :** Keeps users informed and encourages them to complete their purchases.
+- **Description :** Implement push notifications for order updates, promotions, and abandoned carts.
+- **Benefits :** Keeps users informed and encourages them to complete their purchases.
 
 
 **7. Payment Gateway Integration**
-**Description :** Add support for multiple payment gateways like PayPal, Stripe, Apple Pay, and Google Pay.
-**Benefits :** Offers flexibility and convenience for users when making payments.
+- **Description :** Add support for multiple payment gateways like PayPal, Stripe, Apple Pay, and Google Pay.
+- **Benefits :** Offers flexibility and convenience for users when making payments.
 
 
 **8. Customizable Products**
-**Description :** Allow users to customize products (e.g., choose cake flavors, add inscriptions, or select toppings) before adding them to the cart.
-**Benefits :** Increases personalization and caters to unique customer preferences.
+- **Description :** Allow users to customize products (e.g., choose cake flavors, add inscriptions, or select toppings) before adding them to the cart.
+- **Benefits :** Increases personalization and caters to unique customer preferences.
 
 
 **9. Subscription Service**
-**Description :** Introduce a subscription model where users can sign up for regular deliveries of their favorite baked goods (e.g., weekly bread or monthly cookie boxes).
-**Benefits :** Creates a recurring revenue stream and builds customer loyalty.
+- **Description :** Introduce a subscription model where users can sign up for regular deliveries of their favorite baked goods (e.g., weekly bread or monthly cookie boxes).
+- **Benefits :** Creates a recurring revenue stream and builds customer loyalty.
 
 
 **10. AI-Powered Recommendations**
-**Description :** Use machine learning algorithms to analyze user behavior and recommend products based on past purchases or browsing history.
-**Benefits :** Enhances personalization and increases cross-selling opportunities.
+- **Description :** Use machine learning algorithms to analyze user behavior and recommend products based on past purchases or browsing history.
+- **Benefits :** Enhances personalization and increases cross-selling opportunities.
 
 
 **11. Live Chat Support**
-**Description :** Add a live chat feature for real-time customer support.
-**Benefits :** Improves customer satisfaction by providing quick responses to queries or issues.
+- **Description :** Add a live chat feature for real-time customer support.
+- **Benefits :** Improves customer satisfaction by providing quick responses to queries or issues.
 
 **12. Gamification Elements**
-**Description :** Introduce gamification features like loyalty points, badges, or discounts for frequent buyers.
-**Benefits :** Encourages repeat purchases and fosters a sense of community.
+- **Description :** Introduce gamification features like loyalty points, badges, or discounts for frequent buyers.
+- **Benefits :** Encourages repeat purchases and fosters a sense of community.
 
 
 **13. Blog or Recipe Section**
