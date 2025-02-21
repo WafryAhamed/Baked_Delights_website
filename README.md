@@ -3,7 +3,7 @@
 
 
 
-# Bakery Delights Website
+# Bakery Delights Website - front-end
 
 
 Welcome to **Bakery Delights**, an online bakery store where you can explore and purchase a wide variety of baked goods such as cakes, pies, cookies, muffins, and more! This platform is built using modern web technologies like **React**, **Framer Motion**, and **React Router**, providing a seamless user experience with smooth animations, responsive design, and dynamic product filtering.
