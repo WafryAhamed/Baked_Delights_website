@@ -1,0 +1,45 @@
+/* Contact Info Section Styles */
+.contact-info-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    gap: 35px; /* Space between boxes */
+    padding: 50px 20px; /* Padding for spacing */
+    background-color: #f9f9f9; /* Light background */
+    text-align: center; /* Center text inside boxes */
+    min-height: 300px; /* Minimum height for the section */
+  }
+  
+  .contact-info-box {
+    background-color: #ffffff; /* White background */
+    border-radius: 12px; /* Rounded corners */
+    padding: 30px; /* Inner spacing */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    max-width: 300px; /* Limit width for better readability */
+    text-align: center; /* Align text inside the box to the center */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effects */
+  }
+  
+  .contact-info-box:hover {
+    transform: translateY(-10px); /* Slight upward movement on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* Deeper shadow on hover */
+  }
+  
+  .contact-info-box img {
+    width: 60px; /* Fixed size for icons */
+    height: 60px;
+    margin-bottom: 20px; /* Space between image and text */
+  }
+  
+  .contact-info-box h1 {
+    font-size: 1.5rem; /* Larger font size for headings */
+    color: #333; /* Dark text color */
+    margin-bottom: 10px; /* Space between heading and description */
+    font-weight: 600; /* Bold font */
+  }
+  
+  .contact-info-box p {
+    font-size: 1rem; /* Normal font size for descriptions */
+    color: #666; /* Slightly lighter text color */
+    margin: 0; /* Remove default margin */
+  }

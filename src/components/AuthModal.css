@@ -1,0 +1,187 @@
+/* General Styles */
+.auth-modal-container {
+    padding: 20px;
+    color: #000000;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    min-height: 100vh; /* Full viewport height */
+    background-color: #181212; /* Light background */
+  }
+  
+  /* Centered Box for Auth Modal */
+  .auth-modal {
+    background-color: #ffffff; /* White background */
+    border-radius: 8px; /* Rounded corners */
+    padding: 20px; /* Inner spacing */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    max-width: 600px; /* Limit width for better readability */
+    margin: 50px auto; /* Center the box vertically and horizontally */
+    text-align: left; /* Align text inside the box to the left */
+  }
+  
+  .auth-modal h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center; /* Center the heading inside the box */
+  }
+
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+ /* Close Button */
+.auth-modal-close {
+    position: absolute;
+    top: 79px; /* Position at the top */
+    right: 345px; /* Moved to the right corner of the form */
+    background: black; /* Black background initially */
+    border: none; /* No border */
+    font-size: 24px; /* Slightly bigger size */
+    cursor: pointer;
+    color: #ffffff; /* White color */
+    width: 36px; /* Fixed width for the circle */
+    height: 36px; /* Fixed height for the circle */
+    display: flex; /* Center the "×" symbol */
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%; /* Make it a circle */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transitions */
+}
+
+.auth-modal-close:hover {
+    background-color: #ff0000; /* Red background on hover */
+    color: #ffffff; /* Keep text white */
+}
+  
+  /* Logo */
+  .auth-modal-logo {
+    margin-bottom: 20px;
+  }
+  
+  .auth-modal-logo img {
+    width: 100px;
+  }
+  
+  /* Social Buttons */
+  .auth-modal-social-buttons button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffffff; /* Orange background */
+    color: #000000; /* White text */
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .auth-modal-social-buttons button:hover {
+    background-color: #000000; /* Darker orange on hover */
+    color: #fff; /* White text */
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* OR Separator */
+  .auth-modal-or-separator {
+    margin: 15px 0;
+  }
+  
+  .auth-modal-or-separator span {
+    color: #555;
+  }
+  
+  /* Form Fields */
+  .auth-modal-form input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9; /* Light gray background */
+    color: #555;
+  }
+  
+  /* Password Field with Eye Icon */
+  .auth-modal-password-field {
+    position: relative;
+  }
+  
+  .auth-modal-password-field i {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #aaa; /* Light gray eye icon */
+  }
+  
+  /* Forgot Password Link */
+  .auth-modal-forgot-password {
+    margin-top: -10px;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .auth-modal-forgot-password a {
+    color: #e4720f; /* Orange text */
+    text-decoration: none;
+    font-size: 12px;
+  }
+  
+  .auth-modal-forgot-password a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Submit Button */
+  .auth-modal-form button {
+    background-color: #000000; /* Black background */
+    color: #fff; /* White text */
+    border: none;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .auth-modal-form button:hover {
+    background-color: #ffffff; /* Bright green on hover */
+    color: #000000; /* White text */
+    border: solid;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  /* Switch Between Login and Sign Up */
+  .auth-modal-switch {
+    margin-top: 15px;
+  }
+  
+  .auth-modal-switch button {
+    background: none;
+    border: none;
+    color: #e67e22; /* Orange text */
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .auth-modal-switch button:hover {
+    color: #e86a16; /* Darker orange on hover */
+  }

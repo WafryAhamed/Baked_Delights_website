@@ -1,0 +1,57 @@
+/* Stats Container */
+.stats-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px; /* Space between boxes */
+  padding: 100px 20px;
+  background-color: #f9f9f9; /* Light background */
+  text-align: center;
+}
+
+/* Individual Stats Box */
+.stats-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 90px;
+  border-radius: 10px; /* Rounded corners */
+  background: linear-gradient(145deg, #ffffff, #e6e6e6); /* Subtle gradient */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06); /* Soft shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effect */
+}
+
+/* Hover Effect for Stats Box */
+.stats-box:hover {
+  transform: translateY(-10px); /* Slight lift on hover */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.1); /* Enhanced shadow */
+}
+
+/* Stats Number Styling */
+.stats-number {
+  font-size: 3rem; /* Large font size */
+  font-weight: bold;
+  color: #ff7700; /* Vibrant color */
+  line-height: 1;
+}
+
+/* Stats Title Styling */
+.stats-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #333; /* Dark gray for contrast */
+  margin: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .stats-container {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .stats-number {
+    font-size: 2.5rem; /* Smaller font size on smaller screens */
+  }
+}

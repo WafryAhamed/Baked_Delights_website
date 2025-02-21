@@ -1,0 +1,52 @@
+/* Container for the quantity adjustment */
+.quantity-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center horizontally */
+    gap: 19px; /* Space between elements */
+    margin-left: 04px; /* Adjust left margin if needed */
+  }
+  
+  /* Styles for the circular buttons (- and +) */
+  .circle-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px; /* Circle diameter */
+    height: 24px; /* Circle diameter */
+    border-radius: 25%; /* Makes it circular */
+    background-color: #f0f0f0; /* Light gray background */
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000; /* Dark text color */
+    cursor: pointer; /* Pointer cursor for interactivity */
+    border: 1px solid #ccc; /* Optional border for better visibility */
+  }
+  
+  /* Styles for the circular number (1) */
+  .circle-number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px; /* Circle diameter */
+    height: 24px; /* Circle diameter */
+    border-radius: 25%; /* Makes it circular */
+    background-color: #e0e0e0; /* Slightly darker gray for contrast */
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000; /* Dark text color */
+    border: 1px solid #ccc; /* Optional border for better visibility */
+  }
+
+  /* Hover effect for circular number */
+.circle-number:hover {
+    background-color: #ff8800; /* Slightly darker gray on hover */
+    border-color: #000000; /* Slightly darker border on hover */
+    transform: scale(1.1); /* Slightly enlarge the circle on hover */
+    color: #000000; /* Dark text color */
+}
+.circle-button:hover {
+    background-color: #ff8800; /* Slightly darker gray on hover */
+    border-color: #000000; /* Slightly darker border on hover */
+    transform: scale(1.1); /* Slightly enlarge the circle on hover */
+    color: #000000; /* Dark text color */
