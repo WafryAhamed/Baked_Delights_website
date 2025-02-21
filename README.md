@@ -188,13 +188,13 @@ While the current version of Bakery Delights is feature-rich and user-friendly, 
 
 
 **13. Blog or Recipe Section**
-**Description :** Add a blog or recipe section where users can find baking tips, recipes, and inspiration.
-**Benefits :** Positions the website as a valuable resource and drives organic traffic through SEO.
+- **Description :** Add a blog or recipe section where users can find baking tips, recipes, and inspiration.
+- **Benefits :** Positions the website as a valuable resource and drives organic traffic through SEO.
 
 
 **14. Augmented Reality (AR) Product Preview**
-**Description :** Allow users to preview products in their environment using AR technology (e.g., visualize how a cake would look on their dining table).
-**Benefits :** Provides a unique and immersive shopping experience.
+- **Description :** Allow users to preview products in their environment using AR technology (e.g., visualize how a cake would look on their dining table).
+- **Benefits :** Provides a unique and immersive shopping experience.
 
 
 
