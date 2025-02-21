@@ -84,7 +84,7 @@ To run the Bakery Delights website locally, you need the following installed:
    ```
 
 
----
+
 
 
 
@@ -197,7 +197,7 @@ While the current version of Bakery Delights is feature-rich and user-friendly, 
 **Benefits :** Provides a unique and immersive shopping experience.
 
 
----
+
 
 ## License
 
